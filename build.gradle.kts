@@ -8,7 +8,7 @@ buildscript {
 val javaVersion = JavaVersion.VERSION_17
 
 plugins {
-  id("de.europace.docker-publish") version "2.0.6" apply false
+  id("de.europace.docker-publish") version "2.0.7" apply false
 }
 
 allprojects {
